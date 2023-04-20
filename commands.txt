@@ -1,0 +1,13 @@
+week 1:
+term1:
+cd /flask-react
+npm start
+term2:
+. venv/bin/activate
+export FLASK_APP=API
+flask run --host=0.0.0.0
+
+
+
+
+insert into cheese(name,strength,animal,region,pairing,details,link) values('Brie','1-3','Cow','Europe','fruity sauvignon blanc','test','test');
